@@ -1,0 +1,17 @@
+# 敏感认证信息
+agent/auth.json
+
+# 会话历史（个人数据）
+agent/sessions/
+
+# 安装的第三方包（可重新安装，体积大）
+agent/npm/
+agent/git/
+
+# 机器相关配置
+agent/trust.json
+agent/mcp*.json
+
+# pi 内置工具二进制
+agent/bin/
+

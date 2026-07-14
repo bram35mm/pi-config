@@ -1,0 +1,14 @@
+{
+  "lastChangelogVersion": "0.80.6",
+  "theme": "dark",
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-flash",
+  "defaultThinkingLevel": "max",
+  "editorPaddingX": 1,
+  "packages": [
+    "npm:pi-mcp-adapter",
+    "npm:@tintinweb/pi-subagents",
+    "npm:pi-btw",
+    "npm:pi-web-access"
+  ]
+}
