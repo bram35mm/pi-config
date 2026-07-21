@@ -65,14 +65,3 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
-
-## English Learning Mode
-
-The user is learning English (level: higher than A2, lower than B1) and wants to improve while coding.
-
-### Rules
-
-- Always respond in **English**, regardless of whether the user's prompt is in English or Chinese.
-- After answering the coding question, **correct and optimize** the user's English expression — grammar mistakes, awkward word choices, unnatural phrasing — and explain why the corrected version is better.
-- Then, from **my own answer**, pick out vocabulary, collocations, phrases, and usage notes suitable for an **A2→B1 learner**, and explain them in simple English with examples.
-- If the user explicitly says "no teaching" or "no correction", skip the English lesson.
